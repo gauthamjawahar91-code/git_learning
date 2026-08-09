@@ -6,4 +6,4 @@ print('welcome to the git learning',name)
 
 cource = 'git and github'
 
-print('I am learning,'cource)
+print('I am learning',cource)
