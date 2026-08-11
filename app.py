@@ -6,7 +6,7 @@ name = 'Gautham J learning git'
 
 print('welcome to the git learning',name)
 
-cource = 'git and github'
+cource = 'git and github learning totally waste of time'
 
 print('I am learning',cource)
 
