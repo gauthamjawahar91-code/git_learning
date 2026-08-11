@@ -1,6 +1,6 @@
 print('Welcome to git_learning from chatgpt')
 
-name = 'Gautham'
+name = 'Gautham J learning git'
 
 print('welcome to the git learning',name)
 
