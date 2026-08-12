@@ -13,3 +13,7 @@ profile = 'Full stack Developer'
 print(profile)
 
 print("Github Connection Successfully")
+
+msg = "This is message from a real developer"
+
+print(msg)
